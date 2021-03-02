@@ -1,17 +1,24 @@
-# 4-2-mergaite-klase
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-Čia mano antrasis projektas
+# Mergaite
 
-## Key features:
+_25 group second website project_
 
-- pirmas
-- antras
-- trečias
+This project is for educational porpuses only. Pull request are welcome! Thank you for your cooperation!
 
-## Link
+Site published at https://linaskri.github.io/4-mergaite-main/
 
-https://linaskri.github.io/4-2-mergaite-klase/
 
-## Author
+## Project features
 
-Linas Kri [Github](https://github.com/LinasKri)
+- HTML
+- CSS
+- relative paths
+- Github pages
+
+## Authors
+
+[Linas](https://github.com/LinasKri)
