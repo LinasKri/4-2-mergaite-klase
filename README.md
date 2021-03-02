@@ -14,4 +14,4 @@ https://linaskri.github.io/4-2-mergaite-klase/
 
 ## Author
 
-Linas Kri [Github](http://github.com/LinasKri)
+Linas Kri [Github](https://github.com/LinasKri)
