@@ -11,6 +11,7 @@ This project is for educational porpuses only. Pull request are welcome! Thank y
 
 Site published at https://linaskri.github.io/4-mergaite-main/
 
+Design : https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png
 
 ## Project features
 
